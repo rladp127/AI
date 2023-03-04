@@ -2,8 +2,8 @@
 AI news
 
 ## 인공지능과 교육
-http://www.ggilbo.com/news/articleView.html?idxno=961611
-2023.02.23
+http://www.ggilbo.com/news/articleView.html?idxno=961611 <br>
+일자: 2023.02.23
 
 이 글은 인공지능 챗봇이 교육 현장에서 가지는 장단점과 그 적용 가능성에 대한 내용을 다루고 있다. 
 인공지능 챗봇은 대화를 통해 전문적인 내용에 대한 정보를 쉽게 얻을 수 있으며, 
@@ -19,8 +19,8 @@ http://www.ggilbo.com/news/articleView.html?idxno=961611
 <br><br>
 
 ## 모빌리티 분야의 인공지능 활용과 미래 발전 방향
-https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11074168
-2022.06
+https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11074168 <br>
+일자: 2022.06
 
 이 논문은 인공지능을 모빌리티 분야에 적용한 차세대 기술들에 대해 제시하고 있다. 첫째로 움직임을 인지하는 센싱기술에 대해서 소개하는데, 
 궤적의 추적을 이용한 차량 동적정보와 궤적 데이터 생성뿐만 아니라 차량과 보행자의 의도를 예측하는 센싱기술에 대해서도 이야기하고 있다. 
